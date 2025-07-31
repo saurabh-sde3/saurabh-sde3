@@ -2,7 +2,7 @@
 
 🎯 **Senior Backend Engineer | Python | AWS | Scalable Systems**  
 🎓 M.Tech – IIIT Allahabad  
-📍 Based in Noida, India
+📍 Based in Bangalore, India
 
 ---
 
