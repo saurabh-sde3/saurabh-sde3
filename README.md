@@ -33,11 +33,5 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabh-sde3&show_icons=true&theme=gruvbox)
-
----
-
 🌱 Always learning and building. Let’s connect and share ideas!
 
