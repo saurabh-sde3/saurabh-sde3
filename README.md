@@ -6,7 +6,7 @@
 
 ---
 
-🚀 I specialize in building scalable, secure, and high-performance backend systems. With over **10 years of experience**, I’ve worked on cloud-native platforms, background verification services, and real-time network monitoring systems.
+🚀 I specialize in building scalable, secure, and high-performance backend systems. With over **11 years of experience**, I’ve worked on cloud-native platforms, background verification services, and real-time network monitoring systems.
 
 🛠️ **Tech Stack**  
 `Python` `Django` `FastAPI` `Flask` `Celery` `Redis` `RabbitMQ`  
